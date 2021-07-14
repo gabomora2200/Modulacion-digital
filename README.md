@@ -6,6 +6,8 @@ Se simularon y sacaron los promedios a partir de los cuatros posibles casos de o
 
 # Conclusiones
 
+** Comparativa de las imágenes recuparadas
+
 Se toma la imagen presentada por el profesor del volcan arenal, se va a trabajar con la misma. 
 
 ![arenal](https://user-images.githubusercontent.com/65052436/125574786-118f36ca-4e1b-4692-bd47-76f1d7bf8a25.jpg)
