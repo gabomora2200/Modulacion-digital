@@ -40,3 +40,4 @@ Se tiene que la mayoría de valores se encuentran alrededor de la frecuencia de 
 
 ![output](https://user-images.githubusercontent.com/65052436/125576797-48713770-2c87-4c52-8660-16d8a46f0d58.png)
 
+Al final, este proyecto sirve como una pequeña introducción al mundo de las telecomunicaciones
