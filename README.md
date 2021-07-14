@@ -18,13 +18,21 @@ También, se hizo una prueba, con una foto en full HD, con el fin de ver que si 
 
 Los resultados comparativos son los siguientes:
 
-![Figure_1](https://user-images.githubusercontent.com/65052436/125575808-bd3825ab-66e7-448c-a466-71756cb4afb0.png)
+![output](https://user-images.githubusercontent.com/65052436/125576620-f9fc2322-4fb9-43fe-806a-c144e57bcb4a.png)
 
 ![output](https://user-images.githubusercontent.com/65052436/125576436-6509f1b6-4a8d-4141-b3b4-5cc92e2a10a4.png)
 
 ![output](https://user-images.githubusercontent.com/65052436/125576327-87423673-c2b4-4710-8ba6-24a98b046ad1.png)
 
+![output](https://user-images.githubusercontent.com/65052436/125576561-a0687747-3134-4493-a3a4-4f09ce2cb1f1.png)
 
 ## Ergodicidad
 
+![output](https://user-images.githubusercontent.com/65052436/125576920-7bc9f501-d94e-4171-b81f-38a81a160b97.png)
+
 ## Densidad
+
+Se tiene que la mayoría de valores se encuentran alrededor de la frecuencia de las portadoras, que haya más de una portadora no afecta, ya que el número de simbolos se mantiene dado que se usan dos bits por cada simbolo.
+
+![output](https://user-images.githubusercontent.com/65052436/125576797-48713770-2c87-4c52-8660-16d8a46f0d58.png)
+
