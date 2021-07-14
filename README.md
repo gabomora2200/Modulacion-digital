@@ -38,7 +38,7 @@ Por lo anterior se puede decir que sí hay estacionaridad y luego se tendría qu
 
 ## Densidad
 
-Se tiene que la mayoría de valores se encuentran alrededor de la frecuencia de las portadoras, que haya más de una portadora no afecta, ya que el número de simbolos se mantiene dado que se usan dos bits por cada simbolo.
+Se tiene que la mayoría de valores se encuentran alrededor de la frecuencia de las portadoras, que haya más de una portadora no afecta, ya que el número de simbolos se mantiene dado que se usan cuatro bits por cada simbolo.
 
 ![output](https://user-images.githubusercontent.com/65052436/125576797-48713770-2c87-4c52-8660-16d8a46f0d58.png)
 
