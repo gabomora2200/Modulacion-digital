@@ -22,6 +22,8 @@ Los resultados comparativos son los siguientes:
 
 ![output](https://user-images.githubusercontent.com/65052436/125576436-6509f1b6-4a8d-4141-b3b4-5cc92e2a10a4.png)
 
+Como se observa en la siguiente imagen es tan grande que el error no se nota, hay que ver muy detenidamente las nubes para ver que se pierde ''resolución'' 
+
 ![output](https://user-images.githubusercontent.com/65052436/125576327-87423673-c2b4-4710-8ba6-24a98b046ad1.png)
 
 ![output](https://user-images.githubusercontent.com/65052436/125576561-a0687747-3134-4493-a3a4-4f09ce2cb1f1.png)
