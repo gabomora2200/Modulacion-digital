@@ -28,6 +28,10 @@ Los resultados comparativos son los siguientes:
 
 ## Ergodicidad
 
+Se puede observar que la media es constante en todo momento y que la autocorrelación es dependiente en todo momento del diferencial temporal.
+
+Por lo anterior se puede decir que sí hay estacionaridad y luego se tendría que el proceso es ergódico dado que las medias estadisticas igualan a las temporales.
+
 ![output](https://user-images.githubusercontent.com/65052436/125576920-7bc9f501-d94e-4171-b81f-38a81a160b97.png)
 
 ## Densidad
