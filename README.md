@@ -16,4 +16,7 @@ También, se hizo una prueba, con una foto en full HD, con el fin de ver que si 
 
 Los resultados comparativos son los siguientes:
 
-![Figure_1](https://user-images.githubusercontent.com/65052436/125575618-7cb7db6a-b413-4778-887d-ab68d7f36b33.png)
+![Figure_1](https://user-images.githubusercontent.com/65052436/125575808-bd3825ab-66e7-448c-a466-71756cb4afb0.png)
+
+
+## Ergodicidad
