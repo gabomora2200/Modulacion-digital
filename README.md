@@ -20,3 +20,5 @@ Los resultados comparativos son los siguientes:
 
 
 ## Ergodicidad
+
+## Densidad
