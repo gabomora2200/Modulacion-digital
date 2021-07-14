@@ -20,6 +20,8 @@ Los resultados comparativos son los siguientes:
 
 ![Figure_1](https://user-images.githubusercontent.com/65052436/125575808-bd3825ab-66e7-448c-a466-71756cb4afb0.png)
 
+![output](https://user-images.githubusercontent.com/65052436/125576436-6509f1b6-4a8d-4141-b3b4-5cc92e2a10a4.png)
+
 ![output](https://user-images.githubusercontent.com/65052436/125576327-87423673-c2b4-4710-8ba6-24a98b046ad1.png)
 
 
