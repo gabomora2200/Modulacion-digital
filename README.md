@@ -6,7 +6,7 @@ Se simularon y sacaron los promedios a partir de los cuatros posibles casos de o
 
 # Conclusiones
 
-**Comparativa de las imágenes recuparadas
+## Comparativa de las imágenes recuparadas
 
 Se toma la imagen presentada por el profesor del volcan arenal, se va a trabajar con la misma. 
 
